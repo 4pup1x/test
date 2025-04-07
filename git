@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m &quot;Initial commit&quot;
+git remote add origin &lt;ваш_репозиторий&gt;
+git push -u origin master
